@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Тестирование</string>
+
+    <string name="title_activity_loading">LoadingActivity</string>
+    <string name="text_login">Логин</string>
+    <string name="text_password">Пароль</string>
+    <string name="text_login_button">Войти</string>
+    <string name="title_activity_cabinet">CabinetActivity</string>
+    <string name="title_home">Тесты</string>
+    <string name="title_history">История</string>
+    <string name="title_edit">Пользователь</string>
+    <string name="text_test_begin">Пройти тест</string>
+    <string name="text_test_start">Начать</string>
+    <string name="text_fn">Имя</string>
+    <string name="text_ln">Фамилия</string>
+    <string name="text_register_button">Регистрация</string>
+    <string name="text_password_repeat">Повторите пароль</string>
+    <string name="text_button_save">Сохранить</string>
+    <string name="text_old_password">Текущий пароль</string>
+    <string name="text_answer">Ответить</string>
+    <string name="text_logout">Выход</string>
+
+</resources>
